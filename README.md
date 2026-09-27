@@ -1,5 +1,5 @@
-# Kian's Grand Tour
+# Kiaan's Grand Tour
 
-Play: https://vitthalr.github.io/kians-grand-tour-play/
+Play: https://vitthalr.github.io/kiaans-grand-tour-play/
 
 Built game files only.
