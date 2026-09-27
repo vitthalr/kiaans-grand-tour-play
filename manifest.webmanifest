@@ -1,7 +1,7 @@
 {
-  "name": "Kian's Grand Tour",
-  "short_name": "Kian Racing",
-  "description": "Race Kian's red #16 across America and into Canada!",
+  "name": "Kiaan's Grand Tour",
+  "short_name": "Kiaan Racing",
+  "description": "Race Kiaan's red #16 across America and into Canada!",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
